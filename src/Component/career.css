@@ -1,0 +1,344 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.carrer-section {
+    /* padding: 17px 17px; */
+    background: #eeeeee;
+}
+/* gallery Contain css */
+.kdlweE {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+}
+img.sc-146moy0-0.ftWfoy:hover {
+    transform: scale(1.1);
+    transition: 0.9s;
+}
+.kdlweE::before {
+    content: "";
+    display: block;
+    padding-bottom: 100%;
+}
+.bySbkF {
+    position: absolute;
+    inset: 0px;
+}
+img.sc-146moy0-0.ftWfoy:hover {
+    filter: none;
+}
+img.sc-146moy0-0.ftWfoy {
+    filter: grayscale(0.9);
+    transition: 0.8s;
+}
+
+.ftWfoy {
+    max-width: 100%;
+    width: 100%;
+    object-fit: cover;
+    height: 100%;
+    
+}
+.row.\32 {
+    margin-top: 18px;
+}
+.dkkku4-1.bySbk.\32 {
+    margin-top: -149px;
+}
+img.sc-146moy0-0.ftWfoy.\31 {
+    margin-bottom: 18px;
+}
+img.sc-146moy0-0.ftWfoy.\31 {
+    height: 153px;
+}
+img.sc-146moy0-0.ftWfoy.\32 {
+    height: 153px;
+}
+
+    /* heart Contain css */
+    span.dVllxi {
+        font-size: 41px;
+        line-height: 2em;
+        color: rgb(31, 32, 34);
+        font-weight: 600;
+        margin-top: 28px;
+        padding-left: 16px;
+        margin-bottom: 34px !important;
+    }
+p.sc-1npqnwg-8.sc-1npqnwg-9.hMoil.slate-p span {
+    font-size: 22px;
+    line-height: 1.6em;
+    color: rgb(80, 83, 86);
+    font-weight: 400;
+    font-style: normal;
+    text-transform: none;
+    font-family: "Nunito Sans", sans-serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.fWcBwX {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 20px;
+    gap: 16px;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+}
+a.s03za1-0.iVtlPT:hover {
+    color: white;
+}
+/* .iVtlPT {
+    background: none rgb(25, 153, 227);
+    font-variant: inherit;
+    font-stretch: inherit;
+    margin: 0px;
+    outline: none;
+    outline-offset: 0px;
+    cursor: pointer;
+    appearance: none;
+    font-size: 16px;
+    line-height: 1.5em;
+    position: relative;
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    font-weight: 700;
+    font-style: normal;
+    text-transform: none;
+    font-family: "Nunito Sans", sans-serif;
+    text-align: center;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: background-color 0.14s ease 0s, color 0.14s ease 0s;
+    padding: 8px 12px;
+    border: 1px solid rgb(25, 153, 227);
+    color: rgb(255, 255, 255);
+} */
+a.s03za1-0.iVtlPT button {
+    color: white;
+    background: blue;
+}
+a.s03za1-0.iVtlPT button {
+    color: white;
+    background: #1999e3;
+    border: 1px solid #1999e3;
+    padding: 0px 20px;
+    height: 44px;
+    font-size: 14px;
+    font-weight: 600;
+}
+/* value */
+.our-value {
+    padding: 12px;
+}
+h2.sc-1npqnwg-2.sc-1npqnwg-3.dVllxi.slate-h2 {
+    font-size: 40px;
+    line-height: 1.2em;
+    color: rgb(31, 32, 34);
+    font-family: "Nunito Sans", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    text-transform: none;
+    hyphens: auto;
+    word-break: normal;
+    overflow-wrap: break-word;
+    margin-top: 28px;
+    text-align: center;
+}
+.ahctft-1.fjFOIe img {
+    height: 100%;
+    width: 100%;
+    margin-bottom:20px;
+}
+.sc-1nz7r8b-2.faYzIL {
+    padding: 0px 12px;
+}
+h3.sc-1nz7r8b-0.keYvav {
+    color: rgb(31 32 34);
+    font-size: 19px;
+    font-weight: 600;
+    text-align: center;
+}
+.sc-1npqnwg-8.sc-1npqnwg-9.sc-1nz7r8b-1.cKplcH {
+    outline: none;
+    font-size: 18px;
+    text-align: center;
+}
+p.sc-1npqnwg-8.sc-1npqnwg-9.hMoil.slate-p {
+    line-height: 1.8em;
+    color: rgb(80, 83, 86);
+    font-weight: 400;
+    font-style: normal;
+    padding: 0px 20px;
+    text-transform: none;
+    font-family: "Nunito Sans", sans-serif;
+}
+
+/* tab bar */
+.tab {
+    overflow: hidden;
+    border-bottom: 1px solid rgba(80, 83, 86, 0.15);
+    margin-bottom: 10px;
+    min-height: 61px;
+}
+  .tab button {
+    background-color: inherit;
+    float: left;
+    margin-bottom: 5px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 17px;
+}
+  
+.job-contain {
+    padding: 0px 20px;
+}
+  .tabcontent {
+    display: none;
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+  }
+button.tablinks:hover {
+    border-bottom: 2px solid blue;
+}
+.bVNNyC {
+    flex: 0 0 100%;
+    -webkit-box-flex: 0;
+    display: flex;
+    border-width: calc(8px);
+    border-style: solid;
+    border-color: transparent;
+}
+.iqFyuL {
+    border-radius: 4px;
+    border: 1px solid rgba(80, 83, 86, 0.15);
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    align-items: flex-start;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    flex-direction: row;
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    flex-shrink: 1;
+    padding: 20px;
+}
+.inphxj {
+    font-size: 20px;
+    line-height: 1.2em;
+    font-family: "Nunito Sans", sans-serif;
+    overflow-wrap: break-word;
+    display: block;
+    color: rgb(25, 153, 227);
+    font-weight: 800;
+    font-style: normal;
+    text-transform: none;
+    text-decoration: none;
+    word-break: break-word;
+    hyphens: auto;
+}
+.drVsBB {
+    font-size: 16px;
+    color: rgb(80, 83, 86);
+    font-weight: 400;
+    font-style: normal;
+    text-transform: none;
+    font-family: "Nunito Sans", sans-serif;
+    position: relative;
+    line-height: 28px;
+    display: inline-block;
+    margin-top: 8px;
+}
+a.sc-1543tgf-1.inphxj {
+    font-size: 23px;
+    padding-bottom: 15px;
+    font-weight: 600;
+}
+span.custom-css-style-job-location-country {
+    font-size: 21px;
+}
+a.s03za1-0.iVtlPT {
+    background: #0791ff;
+    color: white;
+    text-decoration: none;
+    padding: 7px 8px;
+    font-weight: 600;
+    font-size: 14px;
+    border-radius: 4px;
+}
+a.s03za1-0.iVtlPTs button {
+    background: #0791ff;
+    border-color: #0791ff;
+}
+
+a.sc-1543tgf-1.inphxj:hover {
+    color: #1999e3;
+}
+.container.text-center.text-md-start.mt-5 {
+    margin-top: 0px !important;
+}
+footer.bg-dark.footer-text.text-center.text-lg-start {
+    padding-top: 1rem !important;
+}
+@media screen and (max-width: 480px) {
+   
+    span.dVllxi {
+        font-size: 31px;
+        line-height: 3em;
+         margin: auto;
+    }
+    
+    p.sc-1npqnwg-8.sc-1npqnwg-9.hMoil.slate-p {
+        text-align: center;
+    }
+    p.sc-1npqnwg-8.sc-1npqnwg-9.hMoil.slate-p span {
+        font-size: 18px;
+    }
+    .fWcBwX {
+        margin-left: 0px;
+    }
+    
+    h2.sc-1npqnwg-2.sc-1npqnwg-3.dVllxi.slate-h2 {
+        margin-top: 15px;
+    }
+    h2.sc-1npqnwg-2.sc-1npqnwg-3.dVllxi.slate-h2 {
+        line-height: 0.2em;
+    }
+    p.sc-1npqnwg-8.sc-1npqnwg-9.hMoil.slate-p {
+        padding: 0px 0px !important;
+      
+    }
+    .tab {
+        margin-bottom: 2px;
+    }
+    .tab button {
+        padding: 9px 5px;
+        font-size: 14px;
+    }
+    a.sc-1543tgf-1.inphxj {
+        font-size: 18px;
+        padding-bottom: 15px;
+        font-weight: 600;
+    }
+    .iVtlPT {
+        margin: auto;
+        padding: 0px 16px;
+        font-size: 11px;
+    }
+    a.s03za1-0.iVtlPT button {
+        padding: 0px 9px !important;
+        height: 36px !important;
+        font-size: 12px !important;
+    }
+    span.custom-css-style-job-location-country {
+        font-size: 16px;
+    }
+  }
+
+

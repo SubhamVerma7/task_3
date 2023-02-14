@@ -1,0 +1,118 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+  }
+  
+  .navbar {
+    overflow: hidden;
+    background-color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+  }
+  
+  .navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .dropdown {
+    float: left;
+    /* overflow: hidden; */
+  }
+  
+  .dropdown .dropbtn {
+    font-size: 16px;  
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font: inherit;
+    margin: 0;
+  }
+  
+  /*.navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+  }*/
+  
+  .dropdown-content {
+    /* display: none; */
+    position: absolute;
+    background-color: #f9f9f9;
+    width: 100%;
+    left: 0;
+    /* z-index: 1; */
+  }
+  
+  .dropdown-content .header {
+      background: red;
+      padding: 0px 0px;
+      color: white;
+      margin-top: 0px;
+      height: 3px !important;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+    padding: 0px 30px;
+  }
+  
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    background-color: #fff;
+    height: 250px;
+  }
+  
+  .column a {
+    float: none;
+    color: black;
+    padding: 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .column a:hover {
+   color: red;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  /* /image css start/ */
+  .logo-div {
+      display: flex;
+      padding: 10px 3px;
+  }
+  /* /image css End/ */
+  
+  /* Responsive layout  */
+  @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+      height: auto;
+    }
+  }
+  .triangle-up {
+      width: 0;
+      height: 0;
+      margin-left: 16.1pc;
+      border-left: 7px solid transparent;
+      border-right: 7px solid transparent;
+      border-bottom: 11px solid red;
+      position: absolute;
+      top: -8px;
+  }
+  
